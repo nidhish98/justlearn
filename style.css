@@ -1,0 +1,37 @@
+
+body {
+    background-image: url("background.jpg");
+    background-size: cover;  /* Best for full-page backgrounds */
+    background-attachment: scroll; 
+    border: 8px;
+    margin:auto
+}
+    h1{
+        color:rgb(155, 35, 35)
+    }
+    
+    p{
+        background-color: burlywood;
+       color:chartreuse;
+       font:100
+      
+    }
+    #p1{/* for adding specific style for specific para*/
+
+        background-color:darkblue;
+       color:gray
+       margin top: 500px;
+
+    }
+    button:hover {
+        background-color: red;
+        color: white;
+    } 
+    button:active{
+        background-color:black
+    }  
+    h1{
+        text-shadow: 5px
+    }
+
+
